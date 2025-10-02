@@ -11,6 +11,7 @@
             Console.WriteLine("Ny rad i koden");
             Console.WriteLine("Im BLUE");
             Console.BackgroundColor = ConsoleColor.Blue;
+            Console.WriteLine("oj");
         }
     }
 }

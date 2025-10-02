@@ -7,6 +7,8 @@
             Console.WriteLine("Hello, World!");
 
             Console.WriteLine("GITMEDDELEANDE"); 
+
+            Console.WriteLine("Ny rad i koden");
         }
     }
 }

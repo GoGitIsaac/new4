@@ -9,6 +9,8 @@
             Console.WriteLine("GITMEDDELEANDE"); 
 
             Console.WriteLine("Ny rad i koden");
+            Console.WriteLine("Im BLUE");
+            Console.BackgroundColor = ConsoleColor.Blue;
         }
     }
 }
